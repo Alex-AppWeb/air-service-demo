@@ -1,0 +1,16 @@
+Illustrative stock photographs. These images do not depict Air Service or its staff.
+
+diagnostics.jpg — Daniel Andraski, Pexels
+https://www.pexels.com/photo/mechanic-working-with-car-engine-13065692/
+
+engine-detail.jpg — Sergey Meshkov, Pexels
+https://www.pexels.com/photo/close-up-of-fixing-a-car-part-8478256/
+
+workshop.jpg — Artem Podrez, Pexels
+https://www.pexels.com/photo/a-mechanic-fixing-a-car-engine-8985456/
+
+Reference direction: UPROCK AGENCY (large typography, black and white, orange accents, editorial grid).
+https://agency.uprock.ru/
+https://dribbble.com/agencyuprock
+
+Photos are embedded in index.html so the website can be opened as one standalone HTML file.
